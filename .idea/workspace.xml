@@ -19,25 +19,28 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="md" value="1" />
-          <entry key="rb" value="2" />
+          <entry key="rb" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="1" />
-          <entry key="Ruby" value="2" />
+          <entry key="Ruby" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="rb" value="565" />
+          <entry key="rb" value="1286" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Ruby" value="565" />
+          <entry key="Ruby" value="1286" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.actions.runAnything" />
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.vcs.git.usages" />
     </session>
   </component>
   <component name="FileEditorManager">
@@ -46,8 +49,28 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor />
+              <first_editor relative-caret-position="252">
+                <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+              </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/car_test.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="836">
+              <caret line="48" column="3" selection-start-line="48" selection-start-column="3" selection-end-line="48" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/car.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -61,7 +84,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/person.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="231">
@@ -80,6 +103,8 @@
       <list>
         <option value="$PROJECT_DIR$/test/person_test.rb" />
         <option value="$PROJECT_DIR$/lib/person.rb" />
+        <option value="$PROJECT_DIR$/test/car_test.rb" />
+        <option value="$PROJECT_DIR$/lib/car.rb" />
       </list>
     </option>
   </component>
@@ -109,6 +134,16 @@
             <path>
               <item name="national_park" type="b2602c69:ProjectViewProjectNode" />
               <item name="national_park" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="national_park" type="b2602c69:ProjectViewProjectNode" />
+              <item name="national_park" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="national_park" type="b2602c69:ProjectViewProjectNode" />
+              <item name="national_park" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -145,12 +180,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1540056982552</updated>
-      <workItem from="1540056986909" duration="831000" />
+      <workItem from="1540056986909" duration="1536000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="831000" />
+    <option name="totallyTimeSpent" value="1536000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-186" y="-1080" width="1920" height="1080" extended-state="0" />
@@ -184,14 +219,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/person_test.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -203,6 +230,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="252">
+            <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/car_test.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="48" column="3" selection-start-line="48" selection-start-column="3" selection-end-line="48" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/car.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
         </state>
       </provider>
     </entry>
